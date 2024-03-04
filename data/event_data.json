@@ -1,0 +1,74 @@
+{
+  "33unfeebmtaimg5m5fv1un1cit": {
+    "kind": "calendar#event",
+    "etag": "\"3419073864954000\"",
+    "id": "33unfeebmtaimg5m5fv1un1cit",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MzN1bmZlZWJtdGFpbWc1bTVmdjF1bjFjaXQgYW5tb2xnZXJhMDFAbQ",
+    "created": "2024-03-04T07:18:02.000Z",
+    "updated": "2024-03-04T07:22:12.477Z",
+    "summary": "task test",
+    "description": "this is demo description.",
+    "location": "Nishishinjuku, Shinjuku City, Tokyo 160-0023, Japan",
+    "creator": {
+      "email": "anmolgera01@gmail.com",
+      "self": true
+    },
+    "organizer": {
+      "email": "anmolgera01@gmail.com",
+      "self": true
+    },
+    "start": {
+      "dateTime": "2024-03-12T10:00:00+05:30",
+      "timeZone": "Asia/Kolkata"
+    },
+    "end": {
+      "dateTime": "2024-03-12T10:30:00+05:30",
+      "timeZone": "Asia/Kolkata"
+    },
+    "transparency": "transparent",
+    "iCalUID": "33unfeebmtaimg5m5fv1un1cit@google.com",
+    "sequence": 1,
+    "reminders": {
+      "useDefault": false,
+      "overrides": [
+        {
+          "method": "popup",
+          "minutes": 30
+        }
+      ]
+    },
+    "eventType": "default"
+  },
+  "0pr98gdosrh6gfrhaqk6om5pgb": {
+    "kind": "calendar#event",
+    "etag": "\"3419075501922000\"",
+    "id": "0pr98gdosrh6gfrhaqk6om5pgb",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHByOThnZG9zcmg2Z2ZyaGFxazZvbTVwZ2IgYW5tb2xnZXJhMDFAbQ",
+    "created": "2024-03-04T07:35:50.000Z",
+    "updated": "2024-03-04T07:35:50.961Z",
+    "summary": "another one",
+    "creator": {
+      "email": "anmolgera01@gmail.com",
+      "self": true
+    },
+    "organizer": {
+      "email": "anmolgera01@gmail.com",
+      "self": true
+    },
+    "start": {
+      "date": "2024-03-26"
+    },
+    "end": {
+      "date": "2024-03-27"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0pr98gdosrh6gfrhaqk6om5pgb@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  }
+}
