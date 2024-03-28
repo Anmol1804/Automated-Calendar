@@ -7,6 +7,7 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
+from read_excelSheet import event_ls
 
 # If modifying these scopes, delete the file token.json.
 SCOPES = ["https://www.googleapis.com/auth/calendar"]
@@ -14,14 +15,13 @@ SCOPES = ["https://www.googleapis.com/auth/calendar"]
 
 def main():
     creds = None
-    
+
     if os.path.exists("secret/token.json"):
         creds = Credentials.from_authorized_user_file("secret/token.json", SCOPES)
 
     elif not creds or not creds.valid:
         if creds and creds.expired and creds.refresh_token:
             creds.refresh(Request())
-
         else:
             flow = InstalledAppFlow.from_client_secrets_file(
             "secret/credentials.json", SCOPES
@@ -35,29 +35,11 @@ def main():
 
         service = build("calendar", "v3", credentials=creds)
 
-        event = {
-            'summary': 'Event NEW',
-            'location': 'Nishi shinjuku, japan',
-            'description': 'this is description',
-            'colorId': 3,
-            'start': {
-                'dateTime': '2024-03-29T09:00:00-07:00',
-                'timeZone': 'Japan',
-            },
-            'end': {
-                'dateTime': '2024-03-29T09:20:00-07:00',
-                'timeZone': 'Japan',
-            },
-            'recurrence': [
-                'RRULE:FREQ=DAILY;COUNT=1'
-            ],
-            'attendees': [
-                {'email': 'anmolgera01@gmail.com'},
-            ]
-        }
+        for i in range(len(event_ls)):
+            event = event_ls[i]
 
-        event = service.events().insert(calendarId='primary', body=event).execute()
-        print(f"Event created: {event.get('htmlLink')}")
+            event = service.events().insert(calendarId='primary', body=event).execute()
+            print(f"Event created: {event.get('htmlLink')}")
 
     except HttpError as error:
         print(f"An error occurred: {error}")

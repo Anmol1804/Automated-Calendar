@@ -1,16 +1,14 @@
 {
-  "0atm9h718r1bepr2ub7q2fgkik_20240323T160000Z": {
+  "49kkqtbqembjo1onci7c6rh76c": {
     "kind": "calendar#event",
-    "etag": "\"3422189655622000\"",
-    "id": "0atm9h718r1bepr2ub7q2fgkik_20240323T160000Z",
+    "etag": "\"3423207926952000\"",
+    "id": "49kkqtbqembjo1onci7c6rh76c",
     "status": "confirmed",
-    "htmlLink": "https://www.google.com/calendar/event?eid=MGF0bTloNzE4cjFiZXByMnViN3EyZmdraWtfMjAyNDAzMjNUMTYwMDAwWiBhbm1vbGdlcmEwMUBt",
-    "created": "2024-03-22T08:07:07.000Z",
-    "updated": "2024-03-22T08:07:07.811Z",
-    "summary": "Event NEW",
-    "description": "this is description",
-    "location": "Nishi shinjuku, japan",
-    "colorId": "6",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NDlra3F0YnFlbWJqbzFvbmNpN2M2cmg3NmMgYW5tb2xnZXJhMDFAbQ",
+    "created": "2024-03-28T05:32:43.000Z",
+    "updated": "2024-03-28T05:32:43.476Z",
+    "summary": "event typed",
+    "description": "demo",
     "creator": {
       "email": "anmolgera01@gmail.com",
       "self": true
@@ -20,89 +18,28 @@
       "self": true
     },
     "start": {
-      "dateTime": "2024-03-23T21:30:00+05:30",
-      "timeZone": "America/Los_Angeles"
+      "dateTime": "2024-03-29T08:30:00+05:30",
+      "timeZone": "Asia/Kolkata"
     },
     "end": {
-      "dateTime": "2024-03-23T22:30:00+05:30",
-      "timeZone": "America/Los_Angeles"
+      "dateTime": "2024-03-29T09:30:00+05:30",
+      "timeZone": "Asia/Kolkata"
     },
-    "recurringEventId": "0atm9h718r1bepr2ub7q2fgkik",
-    "originalStartTime": {
-      "dateTime": "2024-03-23T21:30:00+05:30",
-      "timeZone": "America/Los_Angeles"
-    },
-    "iCalUID": "0atm9h718r1bepr2ub7q2fgkik@google.com",
+    "iCalUID": "49kkqtbqembjo1onci7c6rh76c@google.com",
     "sequence": 0,
-    "attendees": [
-      {
-        "email": "anmolgera01@gmail.com",
-        "organizer": true,
-        "self": true,
-        "responseStatus": "needsAction"
-      }
-    ],
     "reminders": {
       "useDefault": true
     },
     "eventType": "default"
   },
-  "0atm9h718r1bepr2ub7q2fgkik_20240324T160000Z": {
+  "2k8bs6c572mkh44fl89as1jbm0_20240329T053000Z": {
     "kind": "calendar#event",
-    "etag": "\"3422189655622000\"",
-    "id": "0atm9h718r1bepr2ub7q2fgkik_20240324T160000Z",
+    "etag": "\"3423207801348000\"",
+    "id": "2k8bs6c572mkh44fl89as1jbm0_20240329T053000Z",
     "status": "confirmed",
-    "htmlLink": "https://www.google.com/calendar/event?eid=MGF0bTloNzE4cjFiZXByMnViN3EyZmdraWtfMjAyNDAzMjRUMTYwMDAwWiBhbm1vbGdlcmEwMUBt",
-    "created": "2024-03-22T08:07:07.000Z",
-    "updated": "2024-03-22T08:07:07.811Z",
-    "summary": "Event NEW",
-    "description": "this is description",
-    "location": "Nishi shinjuku, japan",
-    "colorId": "6",
-    "creator": {
-      "email": "anmolgera01@gmail.com",
-      "self": true
-    },
-    "organizer": {
-      "email": "anmolgera01@gmail.com",
-      "self": true
-    },
-    "start": {
-      "dateTime": "2024-03-24T21:30:00+05:30",
-      "timeZone": "America/Los_Angeles"
-    },
-    "end": {
-      "dateTime": "2024-03-24T22:30:00+05:30",
-      "timeZone": "America/Los_Angeles"
-    },
-    "recurringEventId": "0atm9h718r1bepr2ub7q2fgkik",
-    "originalStartTime": {
-      "dateTime": "2024-03-24T21:30:00+05:30",
-      "timeZone": "America/Los_Angeles"
-    },
-    "iCalUID": "0atm9h718r1bepr2ub7q2fgkik@google.com",
-    "sequence": 0,
-    "attendees": [
-      {
-        "email": "anmolgera01@gmail.com",
-        "organizer": true,
-        "self": true,
-        "responseStatus": "needsAction"
-      }
-    ],
-    "reminders": {
-      "useDefault": true
-    },
-    "eventType": "default"
-  },
-  "7os6np0ee7qn9anhm4u6o425tg_20240325T160000Z": {
-    "kind": "calendar#event",
-    "etag": "\"3422190158754000\"",
-    "id": "7os6np0ee7qn9anhm4u6o425tg_20240325T160000Z",
-    "status": "confirmed",
-    "htmlLink": "https://www.google.com/calendar/event?eid=N29zNm5wMGVlN3FuOWFuaG00dTZvNDI1dGdfMjAyNDAzMjVUMTYwMDAwWiBhbm1vbGdlcmEwMUBt",
-    "created": "2024-03-22T08:11:19.000Z",
-    "updated": "2024-03-22T08:11:19.377Z",
+    "htmlLink": "https://www.google.com/calendar/event?eid=Mms4YnM2YzU3Mm1raDQ0Zmw4OWFzMWpibTBfMjAyNDAzMjlUMDUzMDAwWiBhbm1vbGdlcmEwMUBt",
+    "created": "2024-03-28T05:31:40.000Z",
+    "updated": "2024-03-28T05:31:40.674Z",
     "summary": "Event NEW",
     "description": "this is description",
     "location": "Nishi shinjuku, japan",
@@ -116,19 +53,19 @@
       "self": true
     },
     "start": {
-      "dateTime": "2024-03-25T21:30:00+05:30",
-      "timeZone": "America/Los_Angeles"
+      "dateTime": "2024-03-29T11:00:00+05:30",
+      "timeZone": "Asia/Tokyo"
     },
     "end": {
-      "dateTime": "2024-03-25T21:50:00+05:30",
-      "timeZone": "America/Los_Angeles"
+      "dateTime": "2024-03-29T11:20:00+05:30",
+      "timeZone": "Asia/Tokyo"
     },
-    "recurringEventId": "7os6np0ee7qn9anhm4u6o425tg",
+    "recurringEventId": "2k8bs6c572mkh44fl89as1jbm0",
     "originalStartTime": {
-      "dateTime": "2024-03-25T21:30:00+05:30",
-      "timeZone": "America/Los_Angeles"
+      "dateTime": "2024-03-29T11:00:00+05:30",
+      "timeZone": "Asia/Tokyo"
     },
-    "iCalUID": "7os6np0ee7qn9anhm4u6o425tg@google.com",
+    "iCalUID": "2k8bs6c572mkh44fl89as1jbm0@google.com",
     "sequence": 0,
     "attendees": [
       {
@@ -140,37 +77,6 @@
     ],
     "reminders": {
       "useDefault": true
-    },
-    "eventType": "default"
-  },
-  "0pr98gdosrh6gfrhaqk6om5pgb": {
-    "kind": "calendar#event",
-    "etag": "\"3419722240444000\"",
-    "id": "0pr98gdosrh6gfrhaqk6om5pgb",
-    "status": "confirmed",
-    "htmlLink": "https://www.google.com/calendar/event?eid=MHByOThnZG9zcmg2Z2ZyaGFxazZvbTVwZ2IgYW5tb2xnZXJhMDFAbQ",
-    "created": "2024-03-04T07:35:50.000Z",
-    "updated": "2024-03-08T01:25:20.222Z",
-    "summary": "event 2",
-    "creator": {
-      "email": "anmolgera01@gmail.com",
-      "self": true
-    },
-    "organizer": {
-      "email": "anmolgera01@gmail.com",
-      "self": true
-    },
-    "start": {
-      "date": "2024-03-26"
-    },
-    "end": {
-      "date": "2024-03-27"
-    },
-    "transparency": "transparent",
-    "iCalUID": "0pr98gdosrh6gfrhaqk6om5pgb@google.com",
-    "sequence": 0,
-    "reminders": {
-      "useDefault": false
     },
     "eventType": "default"
   }
